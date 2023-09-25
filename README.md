@@ -1,7 +1,7 @@
 # POST-TEST-1
 ## Profile
 Nama: Hana Anastasya Wardah NIM: 2309116012 Prodi: Sistem Informasi A 
-# Output Program dan Penjelasannya
+## Output Program dan Penjelasannya
 1. "Masukkan nama: hana anastasya wardah" - Program meminta Anda untuk memasukkan nama untuk login.
 
 2. "Masukkan NIM: 12" - Program meminta Anda untuk memasukkan NIM (Nomor Induk Mahasiswa).
