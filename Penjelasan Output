@@ -1,0 +1,21 @@
+Masukkan nama:Hana Anastasya Wardah
+Masukkan NIM:12
+Pilih bangun ruang:
+1. Bola
+2. Tabung
+3. Limas Segitiga
+Masukkan nomor pilihan (1/2/3): 2
+Masukkan jari-jari tabung: 7
+Masukkan tinggi tabung: 12
+Volume tabung dengan jari-jari 7.0 dan tinggi 12.0 adalah 1846.3200000000002
+Nama: Hana Anastasya Wardah
+NIM: 12
+
+## Penjelasan Output
+#Pengguna diminta untuk memasukkan nama, dan dalam kasus ini, pengguna memasukkan nama "Hana Anastasya Wardah."
+#Pengguna juga diminta untuk memasukkan NIM, dan dalam kasus ini, NIM adalah "12."
+#Pengguna kemudian diminta untuk memilih jenis bangun ruang dari tiga opsi yang disediakan: Bola, Tabung, atau Limas Segitiga. Pengguna memilih Tabung dengan memasukkan nomor pilihan "2."
+#Pengguna diminta untuk memasukkan jari-jari dan tinggi tabung. Dalam kasus ini, pengguna memasukkan jari-jari tabung (7) dan tinggi tabung (12).
+#Program menghitung volume tabung dengan menggunakan nilai jari-jari dan tinggi yang dimasukkan, dan menampilkan hasilnya: "Volume tabung dengan jari-jari 7.0 dan tinggi 12.0 adalah 1846.3200000000002."
+
+Sekiranya seperti itu, terima kasih. 
